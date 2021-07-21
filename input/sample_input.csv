@@ -1,0 +1,10 @@
+Guest_Id,hotel_location_type,lead_time,expected_arrival_month,expected_weekend_stays,expected_weekday_stays,adults,children,babies,meal_plan,guest_market_segment,repeat_guest,previous_cancellations,previous_bookings_not_canceled,booking_modifications,reservation_queue,average_daily_rate,required_car_parking_spaces,special_requests
+1001,City Destination,129,October,1,3,2,0,0,BB,Offline TA,N,0,0,0,0,80.75,0,0
+1002,Holiday Destination,22,February,0,2,2,0,0,Undefined,Groups,N,0,0,0,0,46,0,0
+1003,City Destination,108,April,1,2,3,0,0,BB,Online TA,N,0,0,0,0,120.6,0,1
+1004,Holiday Destination,30,June,0,3,2,0,0,BB,Online TA,N,0,0,0,0,99,0,0
+1005,City Destination,8,May,0,2,1,0,0,BB,Online TA,N,0,0,0,0,108.57,0,0
+1006,City Destination,115,October,0,1,2,0,0,SC,Online TA,N,0,0,0,0,108,0,0
+1007,City Destination,169,April,2,2,2,0,0,BB,Offline TA,N,0,0,0,48,77,0,1
+1008,Holiday Destination,172,August,4,10,2,0,0,BB,Offline TA,N,0,0,0,0,88.4,0,0
+1009,City Destination,18,November,0,2,2,0,0,BB,Online TA,N,0,0,1,0,154,0,0
